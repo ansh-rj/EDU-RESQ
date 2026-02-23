@@ -1,5 +1,5 @@
 #EDU-RESQ: Automating Education & Healthcare Management
-It was recognized with the first prize at the IETE Students' Innovation Day, EDU-RESQ is an RFID-based system that eliminates manual inefficiencies in resource allocation and secure data storage.
+EDU-RESQ is an RFID-based system that eliminates manual inefficiencies in resource allocation and secure data storage.
 
 How It Works:
 Instant Scanning: Users scan RFID-enabled ID cards to retrieve profile data from a web-based database.
