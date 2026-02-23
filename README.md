@@ -1,6 +1,14 @@
-# EDU-RESQ
-EDU-RESQ is an RFID-based resource allocation system designed to automate exam seat assignments and hospital bed management while ensuring secure digital health record storage. By integrating RFID technology with a web-based database, it eliminates manual inefficiencies, improves real-time tracking, and enables seamless insurance claim verification to prevent medi-claim rejections. This innovation won first prize at IETE Students' Innovation Day for its practical impact.
+#EDU-RESQ: Automating Education & Healthcare Management
+It was recognized with the first prize at the IETE Students' Innovation Day, EDU-RESQ is an RFID-based system that eliminates manual inefficiencies in resource allocation and secure data storage.
 
-The system works by scanning RFID-enabled ID cards, retrieving user data, and automatically assigning seats or hospital beds. Allocations are displayed on LCD screens and sent via SMS/email, ensuring efficient and error-free management. Hospitals benefit from faster patient admissions and fraud-proof insurance processing, while educational institutions gain organized, malpractice-free exam seating.
+How It Works:
+Instant Scanning: Users scan RFID-enabled ID cards to retrieve profile data from a web-based database.
+Automated Allocation: The system instantly assigns hospital beds or exam seats.
+Multi-Channel Notifications: Assignments are displayed on local LCD screens and sent directly to users via SMS and email.
 
-Future enhancements include facial recognition, blockchain-based security, and an AI-powered mobile app for real-time tracking. By streamlining resource allocation in education and healthcare, EDU-RESQ has the potential to transform smart automation across various industries.
+Core Benefits:
+For Healthcare: Accelerates patient admissions, securely stores digital health records, and enables seamless, fraud-proof insurance claim verification to prevent medi-claim rejections.
+For Education: Ensures organized, error-free, and malpractice-proof exam seating.
+
+Future Roadmap:
+EDU-RESQ is evolving to include facial recognition, blockchain-based security, and an AI-powered mobile app to further revolutionize smart automation and real-time tracking across industries.
