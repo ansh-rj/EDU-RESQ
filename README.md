@@ -1,4 +1,4 @@
-#EDU-RESQ: Automating Education & Healthcare Management
+EDU-RESQ: Automating Education & Healthcare Management
 EDU-RESQ is an RFID-based system that eliminates manual inefficiencies in resource allocation and secure data storage.
 
 How It Works:
